@@ -1,10 +1,10 @@
-<table border="0">
+<table style="border: none; border-collapse: collapse;">
   <tr>
-    <td width="60%" style="vertical-align: middle;">
+    <td style="border: none; vertical-align: middle;" width="60%">
       <h2 align="center">Hi there! I’m Shehar Bano</h2>
       <p align="center">A tech enthusiast transitioning from the world of continuous learning into the professional arena. I love exploring new domains and building impactful solutions.</p>
     </td>
-    <td width="40%" align="center">
+    <td style="border: none; text-align: center;" width="40%">
       <img src="https://miro.medium.com/0*yBvA5CnEX3Sd4aod.gif" width="350" />
     </td>
   </tr>
