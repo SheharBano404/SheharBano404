@@ -1,11 +1,11 @@
 <table>
   <tr>
     <td width="60%">
-      <h2>Hi there! I’m Shehar Bano,</h2>
+      <h2 align="center">Hi there! I’m Shehar Bano</h2>
       <p>A tech enthusiast transitioning from the world of continuous learning into the professional arena. I love exploring new domains and building impactful solutions.</p>
     </td>
     <td width="40%" align="center">
-      <img src="https://miro.medium.com/0*yBvA5CnEX3Sd4aod.gif" width="300" />
+      <img src="https://miro.medium.com/0*yBvA5CnEX3Sd4aod.gif" width="500" />
     </td>
   </tr>
 </table>
