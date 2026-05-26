@@ -25,7 +25,7 @@
   </a>
 </div>
 
-###
+---
 
 # Tech Arsenal
 
@@ -135,4 +135,4 @@
   <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" />
 </div>
 
-###
+---
