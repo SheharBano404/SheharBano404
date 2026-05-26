@@ -1,6 +1,6 @@
 <h2 align="center">Hi there! I’m Shehar Bano, a tech enthusiast transitioning from the world of continuous learning into the professional arena.</h2>
 
----
+<img align="center" width="1000" src="https://miro.medium.com/0*yBvA5CnEX3Sd4aod.gif"  />
 
 # 💫 About Me:
 🔭 **I'm currently working on**<br><br>Exciting projects at the intersection of AI Red Teaming, IoT automation, and scalable Cloud infrastructure.  <br><br>👯 **I'm looking to collaborate on**<br><br>Open-source initiatives involving Cybersecurity research, embedded systems, or full-stack development. I love exploring new tech domains!   <br><br>🤝 **I'm looking for help with**<br><br>Expanding my knowledge in advanced DevOps practices and adversarial AI patterns.  <br><br>🌱 **I'm currently learning**<br><br>Deeper aspects of Cloud-native security and AI-powered threat detection.  <br><br>💬 **Ask me about**<br><br>My experience with AWS pipelines, ESP32/Arduino integration, or building automated, role-based systems.  <br><br>⚡ **Fun fact**<br><br>The world is vast and full of tech. I believe in learning it all! Whether it’s hardware, cloud, or code, "Let's explore and try everything."
@@ -16,9 +16,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-###
-
-<img align="right" height="150" src="https://miro.medium.com/0*yBvA5CnEX3Sd4aod.gif"  />
 
 ###
 
@@ -62,7 +59,7 @@
 ### 🧠 Data Science & AI
 <div align="left">
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23CCFF00.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />
