@@ -30,7 +30,7 @@
 # Tech Arsenal
 
 ### 🛠 Languages & Scripting
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
@@ -44,7 +44,7 @@
 </div>
 
 ### 🚀 Frameworks & Libraries
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" />
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react" />
@@ -65,7 +65,7 @@
 </div>
 
 ### 🧠 Data Science & AI
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-%23CCFF00.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -79,7 +79,7 @@
 </div>
 
 ### ☁️ Cloud, Database & DevOps
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
@@ -97,7 +97,7 @@
 </div>
 
 ### 🛡️ Cybersecurity & Ethical Hacking
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-268BEE.svg?style=for-the-badge&logo=kali-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-CF232B.svg?style=for-the-badge&logo=metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A5.svg?style=for-the-badge&logo=wireshark&logoColor=white" />
@@ -121,7 +121,7 @@
 </div>
 
 ### 🎨 Design & Other Tools
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
