@@ -1,15 +1,14 @@
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  
-  <div style="flex: 1; padding-right: 20px;">
-    <h2>Hi there! I’m Shehar Bano,</h2>
-    <p>A tech enthusiast transitioning from the world of continuous learning into the professional arena. I love exploring new domains and building impactful solutions.</p>
-  </div>
-
-  <div style="flex: 1; text-align: center;">
-    <img width="400" src="https://miro.medium.com/0*yBvA5CnEX3Sd4aod.gif" alt="Shehar Bano" />
-  </div>
-
-</div>
+<table>
+  <tr>
+    <td width="60%">
+      <h2>Hi there! I’m Shehar Bano,</h2>
+      <p>A tech enthusiast transitioning from the world of continuous learning into the professional arena. I love exploring new domains and building impactful solutions.</p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://miro.medium.com/0*yBvA5CnEX3Sd4aod.gif" width="300" />
+    </td>
+  </tr>
+</table>
 
 # 💫 About Me:
 🔭 **I'm currently working on**<br><br>Exciting projects at the intersection of AI Red Teaming, IoT automation, and scalable Cloud infrastructure.  <br><br>👯 **I'm looking to collaborate on**<br><br>Open-source initiatives involving Cybersecurity research, embedded systems, or full-stack development. I love exploring new tech domains!   <br><br>🤝 **I'm looking for help with**<br><br>Expanding my knowledge in advanced DevOps practices and adversarial AI patterns.  <br><br>🌱 **I'm currently learning**<br><br>Deeper aspects of Cloud-native security and AI-powered threat detection.  <br><br>💬 **Ask me about**<br><br>My experience with AWS pipelines, ESP32/Arduino integration, or building automated, role-based systems.  <br><br>⚡ **Fun fact**<br><br>The world is vast and full of tech. I believe in learning it all! Whether it’s hardware, cloud, or code, "Let's explore and try everything."
