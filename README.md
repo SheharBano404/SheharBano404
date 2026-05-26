@@ -1,8 +1,8 @@
-<table>
+<table border="0">
   <tr>
-    <td width="60%">
+    <td width="60%" style="vertical-align: middle;">
       <h2 align="center">Hi there! I’m Shehar Bano</h2>
-      <p>A tech enthusiast transitioning from the world of continuous learning into the professional arena. I love exploring new domains and building impactful solutions.</p>
+      <p align="center">A tech enthusiast transitioning from the world of continuous learning into the professional arena. I love exploring new domains and building impactful solutions.</p>
     </td>
     <td width="40%" align="center">
       <img src="https://miro.medium.com/0*yBvA5CnEX3Sd4aod.gif" width="350" />
